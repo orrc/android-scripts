@@ -4,12 +4,6 @@
 # Parameters:
 # - initial query text (optional)
 #
-# Requirements:
-# - the current directory must be a git repository
-#
-# Assumptions:
-# - the primary remote is called "origin"
-#
 # Prerequisites:
 # - `adb` is available on the `PATH`
 # - `perl` is installed
